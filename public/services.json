@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "title": "1-ON-1 TRAINING",
+        "price": "1000",
+        "body": "ELITE, RESULTS BASED PERSONAL TRAINING SERVICES IN THE BOULDER, CO AREA.",
+        "description": "Serious Fitness has been  providing 1-on-1 personal training in Boulder, CO since 2003 and also offers an online personal training platform to individuals worldwide. This unique online training program is designed for men over 50 and incorporates highly effective strength and conditioning modalities to improve every aspect of their health.",
+        "img": "https://i.ibb.co/yQqJC3t/personal-training-orig.jpg",
+        "review": "CLAIM YOUR FREE STRATEGY CALL!"
+    },
+    {
+        "id": 2,
+        "title": "ONLINE TRAINING",
+        "price": "700",
+        "body": "HIGHLY EFFECTIVE ONLINE STRENGTH AND CONDITIONING PROGRAMS FOR MEN & WOMEN.",
+        "description": "After 20+ years of helping men & women achieve optimum fitness by designing customized exercise programs combined with diet & nutrition support, I have created a powerful remote coaching monthly subscription service that offers the best components of 1-on-1 personal training without the risk of missed sessions due to time constraints.",
+        "img": "https://i.ibb.co/yQqJC3t/personal-training-orig.jpg",
+        "services": [
+            {
+                "title": "FLEXIBILITY",
+                "description": "You already have a busy schedule. Exercise in a way and at a time that suits you. No more missed PT sessions.​",
+                "icon": ""
+            },
+            {
+                "title": "ACCOUNTABILITY",
+                "description": "​​You’ll receive all the necessary support and tools that you need to build new, healthy habits and to keep you on track​",
+                "icon": ""
+            },
+            {
+                "title": "SERIOUS FITNESS SMARTPHONE APP",
+                "description": "Includes a library of more than 2,000 exercises with video demonstrations, nutrition coaching and healthy recipes.​",
+                "icon": ""
+            },
+            {
+                "title": "FLEXIBILITY",
+                "description": "You already have a busy schedule. Exercise in a way and at a time that suits you. No more missed PT sessions.​",
+                "icon": ""
+            },
+            {
+                "title": "FLEXIBILITY",
+                "description": "You already have a busy schedule. Exercise in a way and at a time that suits you. No more missed PT sessions.​",
+                "icon": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "CORPORATE FITNESS",
+        "price": "900",
+        "body": "CONSULT, DEVELOP AND SUPERVISE GROUP EXERCISE PROGRAMS FOR COMPANIES AND THEIR EMPLOYEES.",
+        "description": "After 20+ years of helping men & women achieve optimum fitness by designing customized exercise programs combined with diet & nutrition support, I have created a powerful remote coaching monthly subscription service that offers the best components of 1-on-1 personal training without the risk of missed sessions due to time constraints.",
+        "img": "https://i.ibb.co/XpVdswC/340702574.jpg" 
+    },
+    {
+        "id": 4,
+        "title": "1-ON-1 TRAINING",
+        "price": "1000",
+        "body": "ELITE, RESULTS BASED PERSONAL TRAINING SERVICES IN THE BOULDER, CO AREA.",
+        "description": "Serious Fitness has been  providing 1-on-1 personal training in Boulder, CO since 2003 and also offers an online personal training platform to individuals worldwide. This unique online training program is designed for men over 50 and incorporates highly effective strength and conditioning modalities to improve every aspect of their health.",
+        "img": "https://i.ibb.co/yQqJC3t/personal-training-orig.jpg",
+        "review": "CLAIM YOUR FREE STRATEGY CALL!"
+    },
+    {
+        "id": 5,
+        "title": "ONLINE TRAINING",
+        "price": "700",
+        "body": "HIGHLY EFFECTIVE ONLINE STRENGTH AND CONDITIONING PROGRAMS FOR MEN & WOMEN.",
+        "description": "After 20+ years of helping men & women achieve optimum fitness by designing customized exercise programs combined with diet & nutrition support, I have created a powerful remote coaching monthly subscription service that offers the best components of 1-on-1 personal training without the risk of missed sessions due to time constraints.",
+        "img": "https://i.ibb.co/yQqJC3t/personal-training-orig.jpg",
+        "services": [
+            {
+                "title": "FLEXIBILITY",
+                "description": "You already have a busy schedule. Exercise in a way and at a time that suits you. No more missed PT sessions.​",
+                "icon": ""
+            },
+            {
+                "title": "ACCOUNTABILITY",
+                "description": "​​You’ll receive all the necessary support and tools that you need to build new, healthy habits and to keep you on track​",
+                "icon": ""
+            },
+            {
+                "title": "SERIOUS FITNESS SMARTPHONE APP",
+                "description": "Includes a library of more than 2,000 exercises with video demonstrations, nutrition coaching and healthy recipes.​",
+                "icon": ""
+            },
+            {
+                "title": "FLEXIBILITY",
+                "description": "You already have a busy schedule. Exercise in a way and at a time that suits you. No more missed PT sessions.​",
+                "icon": ""
+            },
+            {
+                "title": "FLEXIBILITY",
+                "description": "You already have a busy schedule. Exercise in a way and at a time that suits you. No more missed PT sessions.​",
+                "icon": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "CORPORATE FITNESS",
+        "price": "900",
+        "body": "CONSULT, DEVELOP AND SUPERVISE GROUP EXERCISE PROGRAMS FOR COMPANIES AND THEIR EMPLOYEES.",
+        "description": "After 20+ years of helping men & women achieve optimum fitness by designing customized exercise programs combined with diet & nutrition support, I have created a powerful remote coaching monthly subscription service that offers the best components of 1-on-1 personal training without the risk of missed sessions due to time constraints.",
+        "img": "https://i.ibb.co/XpVdswC/340702574.jpg" 
+    }
+]
