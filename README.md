@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `Live Link`
-Project Live link: [http://localhost:3000]
+Project Live link: (http://localhost:3000)
 
 
 
