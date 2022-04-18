@@ -13,10 +13,9 @@ const Service = ({ service }) => {
     return (
         <div className='service'>
             <img className='w-100' src={img} alt="" />
-            <h2>{title}</h2>
+            <h2 className='py-2'>{title}</h2>
             <p>Price: {price}</p>
             <p><small>{description}</small></p>
-            {/* <Button onClick={() => navigateToServiceDetail(id)} variant="primary">Start Now</Button> */}
             <div className='text-center'>
                 <Link to="/checkout">
                     <button className='btn btn-primary'>Proceed Checkout</button>
