@@ -19,7 +19,6 @@ const SocialLogin = () => {
 
     if (error || error1) {
         errorElement = <p className='text-danger'>Error: {error?.message} {error1?.message}</p>
-
     }
 
     if (user || user1) {
@@ -39,18 +38,18 @@ const SocialLogin = () => {
             <div>
                 <button
                     onClick={() => signInWithGoogle()}
-                    className='btn btn-info d-block w-50 mx-auto my-2'>
+                    className='btn btn-primary d-block w-50 mx-auto my-2'>
                     <img style={{ height: '30px' }} src={google} alt="" />
                     <span className='px-2'>Google Sign In</span>
                 </button>
                 <button
-                    className='btn btn-info d-block w-50 mx-auto my-2'>
+                    className='btn btn-primary d-block w-50 mx-auto my-2'>
                     <img style={{ height: '30px' }} src={facebook} alt="" />
                     <span className='px-2'>Facebook Sign In</span>
                 </button>
                 <button
                 onClick={() => signInWithGithub()}
-                className='btn btn-info d-block w-50 mx-auto'>
+                className='btn btn-primary d-block w-50 mx-auto'>
                     <img style={{ height: '30px' }} src={github} alt="" />
                     <span className='px-2'>Github Sign In</span>
                 </button>
