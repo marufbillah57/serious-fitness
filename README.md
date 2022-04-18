@@ -9,12 +9,12 @@ Project Live link: (https://serious-fitness.web.app/)
 *Firebase
 
 ## `Used Firebase hooks List:`
-*useAuthState
-*useCreateUserWithEmailAndPassword
-*useSignInWithEmailAndPassword
-*useSignInWithGoogle
-*useUpdateProfile
-*useSendEmailVerfication
+Markup: *useAuthState
+        *useCreateUserWithEmailAndPassword
+        *useSignInWithEmailAndPassword
+        *useSignInWithGoogle
+        *useUpdateProfile
+        *useSendEmailVerfication
 
 
 
